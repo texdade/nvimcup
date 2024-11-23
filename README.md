@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# 💤 Vimted
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+The config I use for Vim at Vinted.
+Based on [LazyVim](https://github.com/LazyVim/LazyVim).
